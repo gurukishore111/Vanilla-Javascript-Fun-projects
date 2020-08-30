@@ -1,6 +1,6 @@
 ## Vanilla-Javascript-Fun-projects
 
-### 1.Movie Seat Booking
+### 2.Movie Seat Booking
  
  It is implemented by JavaScript HTML DOM Document Object and LocalStorage of Browser 
  
