@@ -1,1 +1,1 @@
-# Vanilla-Javascript-Fun-projects
+## Vanilla-Javascript-Fun-projects
