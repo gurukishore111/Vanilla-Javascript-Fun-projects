@@ -1,6 +1,13 @@
 ## Vanilla-Javascript-Fun-projects
 
-### 1.Movie Seat Booking
+### 1.Form Validator
+ 
+ It is implemented by JavaScript HTML DOM Document Object 
+
+![Form gif](https://user-images.githubusercontent.com/52570524/91662807-5f53a280-eb02-11ea-870c-fdfbf98a3770.gif)
+
+
+### 2.Movie Seat Booking
  
  It is implemented by JavaScript HTML DOM Document Object and LocalStorage of Browser 
  
