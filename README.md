@@ -22,7 +22,7 @@
 
  ### 4.Audio Player
  
- It is implemented by JavaScript HTML DOM Document Object and CSS Animation
+ It is implemented by JavaScript HTML DOM Document Object , CSS Animation , Audio html Api
  
  ![audip player](https://user-images.githubusercontent.com/52570524/93894552-7b66f000-fd0c-11ea-9f30-ee7a832de76a.png)
 
