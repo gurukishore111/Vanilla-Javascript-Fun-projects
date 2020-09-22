@@ -20,3 +20,6 @@
  
 ![relax gif](https://user-images.githubusercontent.com/52570524/91710743-629e6b00-eba2-11ea-9f96-04f9b01b5d39.gif)
 
+ ### 3.Audio Player
+ 
+ It is implemented by JavaScript HTML DOM Document Object and CSS Animation
