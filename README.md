@@ -14,9 +14,15 @@
  ![Moive booking gif](https://user-images.githubusercontent.com/52570524/91654356-96f02980-eac5-11ea-9529-10d9c230f311.gif)
 
  
- ### 2.Relaxer App
+ ### 3.Relaxer App
  
  It is implemented by JavaScript HTML DOM Document Object and CSS Animation
  
 ![relax gif](https://user-images.githubusercontent.com/52570524/91710743-629e6b00-eba2-11ea-9f96-04f9b01b5d39.gif)
+
+ ### 4.Audio Player
+ 
+ It is implemented by JavaScript HTML DOM Document Object , CSS Animation , Audio html Api
+ 
+ ![audip player](https://user-images.githubusercontent.com/52570524/93894552-7b66f000-fd0c-11ea-9f30-ee7a832de76a.png)
 
